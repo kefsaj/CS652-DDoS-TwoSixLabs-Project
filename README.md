@@ -6,9 +6,11 @@ Modified by Kefin Sajan
 
 The aim for this project was to venture into solving DDoS attack that affect many systems. Using previous system states the future scenerios are predicted from 12 DDoS attacks from 36 data points. BGP are  a protocol used to connect between major internet service providers, by selecting the most efficient route to deliver information especially used when connecting long distances. These BPG connection are kept active by sending small messages to sustain the client to their destination. 
 
- Files used in this particular situation is Locatated: /content/drive/MyDrive/CS652101-Network-ArchProtocols/Twosixlabs 
+ Files used in this particular situation is Locatated: 
+ [ "/content/drive/MyDrive/CS652101-Network-ArchProtocols/Twosixlabs/"]( https://drive.google.com/drive/folders/1IcB2GH5Z6GZhocLrwnbaxJKkiIfTJtst?usp=sharing)
 
 Project requirements: https://pantelis.github.io/cs652/docs/cloud/projects/ddos-detection/
+
 
 ------
 
